@@ -1,3 +1,3 @@
 - This project builds upon [Matchzoo-py](https://github.com/NTMC-Community/MatchZoo-py).
-- The example of the training process is shown as `run_fasttext_d300_dense_trm_cls.py`.
-- The DenseTrans model architecture is shown as `./matchzoo/models/dense_transformer_cls.py`.
+- The example of the training process: `run_fasttext_d300_dense_trm_cls.py`.
+- The DenseTrans model building: `./matchzoo/models/dense_transformer_cls.py`.
